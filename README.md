@@ -1,14 +1,49 @@
-# Hi, I'm Sachin Tripathi 👋
-## Data Analyst | Aspiring Data Scientist
+# Hi , I'm Sachin Tripathi 👋
 
-I am a passionate data analyst skilled in transforming complex datasets into actionable insights. With a strong foundation in Python, SQL, and data visualization tools like Tableau and Power BI, I enjoy tackling business problems and telling stories with data. I am currently seeking a full-time role where I can contribute to data-driven decision-making.
+<br>
 
-### 🔧 Technologies & Tools
+## 📊 Data Analyst | Aspiring Data Scientist
 
-* **Languages:** Python, SQL
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-* **Databases:** MySQL
-* **BI Tools:** Tableau, Power BI
-* **Other:** Excel, Jupyter Notebook, Git
+I am a Data Analyst with a proven ability to dissect complex business problems and deliver data-driven solutions. My core competency involves the entire data lifecycle: from performing rigorous data extraction and preprocessing using Python (Pandas, NumPy) and SQL, to applying statistical modeling techniques and deploying insightful visualizations. I am passionate about crafting compelling data narratives that empower leadership to make informed, strategic decisions and optimize operational efficiency. I am eager to bring my technical acumen and business-oriented mindset to a new data science or analytics role.
 
-* 
+I am actively seeking a full-time role as a Data Analyst or Data Scientist where I can apply my analytical skills to solve real-world problems.
+
+<br>
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are the primary tools and technologies I work with:
+
+* **Programming & Databases:**
+    * `Python`
+    * `SQL (MySQL and SQL Server)`
+
+* **Data Science & Analysis Libraries:**
+    * `Pandas`
+    * `NumPy`
+    * `Scikit-learn`
+
+* **Data Visualization:**
+    * `Matplotlib`
+    * `Seaborn`
+    * `Tableau`
+    * `Power BI`
+
+* **Other Tools:**
+    * `Jupyter Notebook`
+    * `Git & GitHub`
+    * `Microsoft Excel`
+
+
+<br>
+
+---
+
+### 📫 How to Reach Me
+
+I'm always open to connecting and discussing new opportunities.
+
+* **LinkedIn:** [linkedin.com/in/Your-LinkedIn-URL](https://www.linkedin.com/in/sachin78000/)
+* **Email:** [youremail@example.com](mailto:raj1998sach@gmail.com)
