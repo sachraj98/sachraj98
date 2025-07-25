@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sachin Tripathi 👋
+## Data Analyst | Aspiring Data Scientist
 
-<!--
-**sachraj98/sachraj98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate data analyst skilled in transforming complex datasets into actionable insights. With a strong foundation in Python, SQL, and data visualization tools like Tableau and Power BI, I enjoy tackling business problems and telling stories with data. I am currently seeking a full-time role where I can contribute to data-driven decision-making.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Python, SQL
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+* **Databases:** MySQL
+* **BI Tools:** Tableau, Power BI
+* **Other:** Excel, Jupyter Notebook, Git
+
+* 
