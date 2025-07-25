@@ -45,5 +45,5 @@ Here are the primary tools and technologies I work with:
 
 I'm always open to connecting and discussing new opportunities.
 
-* **LinkedIn:** [linkedin.com/in/Your-LinkedIn-URL](https://www.linkedin.com/in/sachin78000/)
-* **Email:** [youremail@example.com](mailto:raj1998sach@gmail.com)
+* **LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/sachin78000/)
+* **Email:** [My Gmail](mailto:raj1998sach@gmail.com)
